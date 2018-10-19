@@ -1,0 +1,55 @@
+.Title-list {
+  list-style: none;
+}
+
+.Avatar {
+  text-align: center;  
+}
+
+.Avatar img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.Avatar h4 {
+  text-transform: capitalize;
+  color: #141414; /* Used to be red; changed to conform with BYU color palette */
+}
+
+.Avatar p{
+    text-transform: lowercase;
+    color: #666666;
+}
+
+.border-right{
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: grey;
+}
+
+.byu-back{
+    background-color: rgba(0,46,93,.8);
+}
+
+.white-back{
+    background-color: #FFFFFF;
+    min-height: 700px;
+    border-radius: 25px;
+}
+
+.main-heading{
+    margin-top: 16px;
+}
+
+.clickbait-display{
+  text-align: center;
+}
+
+.no-resize{
+  resize: none;
+}
+
+.greytext{
+  color: #141414;
+}
